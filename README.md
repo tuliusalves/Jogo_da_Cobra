@@ -1,1 +1,2 @@
-# Jogo_da_Cobra
+# Jogo da Cobra
+Feito em javaScript.
